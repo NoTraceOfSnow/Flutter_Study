@@ -1,0 +1,5 @@
+enum StateStyle {
+  NO_STATUS_BAR,
+  STATUS_BAR,
+  STATUS_BAR_TRANSPARENT,
+}
